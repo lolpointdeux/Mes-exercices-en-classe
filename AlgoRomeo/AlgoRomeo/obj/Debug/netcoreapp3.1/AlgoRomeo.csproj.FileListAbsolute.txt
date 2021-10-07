@@ -1,0 +1,13 @@
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.csprojAssemblyReference.cache
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.AssemblyInfoInputs.cache
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.AssemblyInfo.cs
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.csproj.CoreCompileInputs.cache
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\bin\Debug\netcoreapp3.1\AlgoRomeo.exe
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\bin\Debug\netcoreapp3.1\AlgoRomeo.deps.json
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\bin\Debug\netcoreapp3.1\AlgoRomeo.runtimeconfig.json
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\bin\Debug\netcoreapp3.1\AlgoRomeo.runtimeconfig.dev.json
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\bin\Debug\netcoreapp3.1\AlgoRomeo.dll
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\bin\Debug\netcoreapp3.1\AlgoRomeo.pdb
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.dll
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.pdb
+C:\Users\180150\Downloads\AlgoRomeo\AlgoRomeo\obj\Debug\netcoreapp3.1\AlgoRomeo.genruntimeconfig.cache
