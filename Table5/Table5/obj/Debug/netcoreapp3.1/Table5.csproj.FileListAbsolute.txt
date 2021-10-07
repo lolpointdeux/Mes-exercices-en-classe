@@ -1,0 +1,13 @@
+C:\Users\180150\Downloads\Table5\Table5\bin\Debug\netcoreapp3.1\Table5.exe
+C:\Users\180150\Downloads\Table5\Table5\bin\Debug\netcoreapp3.1\Table5.deps.json
+C:\Users\180150\Downloads\Table5\Table5\bin\Debug\netcoreapp3.1\Table5.runtimeconfig.json
+C:\Users\180150\Downloads\Table5\Table5\bin\Debug\netcoreapp3.1\Table5.runtimeconfig.dev.json
+C:\Users\180150\Downloads\Table5\Table5\bin\Debug\netcoreapp3.1\Table5.dll
+C:\Users\180150\Downloads\Table5\Table5\bin\Debug\netcoreapp3.1\Table5.pdb
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.csprojAssemblyReference.cache
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.AssemblyInfoInputs.cache
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.AssemblyInfo.cs
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.csproj.CoreCompileInputs.cache
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.dll
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.pdb
+C:\Users\180150\Downloads\Table5\Table5\obj\Debug\netcoreapp3.1\Table5.genruntimeconfig.cache
