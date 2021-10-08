@@ -1,6 +1,6 @@
 # Mes-exercices-en-classe
 Mes exercices en classe
 +
-+# Sponsors
+# Sponsors
 +
 +* [**Manou**](https://github.com/manugame)
