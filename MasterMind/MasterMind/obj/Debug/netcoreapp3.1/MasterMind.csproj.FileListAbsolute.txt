@@ -11,3 +11,16 @@ C:\Users\180150\Downloads\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMi
 C:\Users\180150\Downloads\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.dll
 C:\Users\180150\Downloads\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.pdb
 C:\Users\180150\Downloads\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.genruntimeconfig.cache
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.exe
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.deps.json
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.runtimeconfig.json
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.runtimeconfig.dev.json
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.dll
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.pdb
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.csprojAssemblyReference.cache
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.AssemblyInfoInputs.cache
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.AssemblyInfo.cs
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.dll
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.pdb
+C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.genruntimeconfig.cache

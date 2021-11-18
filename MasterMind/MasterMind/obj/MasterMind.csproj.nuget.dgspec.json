@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\180150\\Downloads\\MasterMind\\MasterMind\\MasterMind.csproj": {}
+    "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\MasterMind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\180150\\Downloads\\MasterMind\\MasterMind\\MasterMind.csproj": {
+    "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\MasterMind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\180150\\Downloads\\MasterMind\\MasterMind\\MasterMind.csproj",
+        "projectUniqueName": "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\MasterMind.csproj",
         "projectName": "MasterMind",
-        "projectPath": "C:\\Users\\180150\\Downloads\\MasterMind\\MasterMind\\MasterMind.csproj",
+        "projectPath": "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\MasterMind.csproj",
         "packagesPath": "C:\\Users\\180150\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\180150\\Downloads\\MasterMind\\MasterMind\\obj\\",
+        "outputPath": "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\180150\\AppData\\Roaming\\NuGet\\NuGet.Config",
