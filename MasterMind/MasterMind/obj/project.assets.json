@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\180150\\.nuget\\packages\\": {}
+    "C:\\Users\\rioli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\MasterMind.csproj",
+      "projectUniqueName": "C:\\git\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\MasterMind.csproj",
       "projectName": "MasterMind",
-      "projectPath": "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\MasterMind.csproj",
-      "packagesPath": "C:\\Users\\180150\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\180150\\Downloads\\Mes-exercices-en-classe-main\\MasterMind\\MasterMind\\obj\\",
+      "projectPath": "C:\\git\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\MasterMind.csproj",
+      "packagesPath": "C:\\Users\\rioli\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\180150\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rioli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

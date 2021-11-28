@@ -6,23 +6,32 @@ namespace MasterMind
     {
         static void Main(string[] args)
         {
-            int[] combiJ = new int[4];
-            int[] combi = new int[4];
+            int[] combiJ ;
+            int[] combi ;
+            string proposition;
 
-            for (int c = 0; c < 4; c++)
-            {
-                Console.WriteLine($"Entrez la {c} couleur que vous avez choisit");
-                combiJ[c] = int.Parse(Console.ReadLine());
-            }
-                   
+            Console.WriteLine($"Entrez les couleur que vous avez choisit");
+            proposition = Console.ReadLine();
+
+            StringToArray(proposition, out combiJ);
             masterRandom(combi);
             pionRouge(combi, combiJ);
             afficher(combi);
             
 
         }
+        static void StringToArray(string proposition, out int[] combiJ)
+        {
+            combiJ = new int[4];
+
+            for (int i = 0; i <= 3; i++)
+            {
+                combiJ[i] = proposition[i];
+            }
+        }
         public static void masterRandom(int[] combi)
         {
+            combi = new int[4];
             Random rnd = new Random();
 
             for (int n = 0; n < combi.Length; n++)
@@ -35,12 +44,16 @@ namespace MasterMind
         public static void pionRouge(int [] combi, int[] combiJ)
         {
             int rouge = 0;
+            
             for (int i = 0; i < combi.Length; i++)
             {
                 
+
                 if (combi[i] == combiJ[i])
                 {
                     rouge = rouge + 1;
+                    combiJ[i] = -1;
+                    combi[i] = -2;
                 }
             }
        
@@ -56,6 +69,7 @@ namespace MasterMind
                     if (combi[i] == combiJ[j])
                     {
                         blanc = blanc + 1;
+                        combiJ[i] = -1;
                     }
                 }
                
@@ -63,12 +77,13 @@ namespace MasterMind
         }
         public static void afficher (int [] combi)
         {
-            for (int b = 0; b < combi.Length; b++)
+            for (int i = 0; i < combi.Length; i++)
             {
-                Console.Write(combi[b] + " ");
+                Console.Write(combi[i] + " ");
                 
             }
         }
-        
+       
+
     }
 }
