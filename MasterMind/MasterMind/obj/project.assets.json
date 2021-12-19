@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\MasterMind.csproj",
+      "projectUniqueName": "C:\\de mahieu\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\MasterMind.csproj",
       "projectName": "MasterMind",
-      "projectPath": "C:\\git\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\MasterMind.csproj",
+      "projectPath": "C:\\de mahieu\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\MasterMind.csproj",
       "packagesPath": "C:\\Users\\rioli\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\obj\\",
+      "outputPath": "C:\\de mahieu\\Mes-exercices-en-classe\\MasterMind\\MasterMind\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rioli\\AppData\\Roaming\\NuGet\\NuGet.Config",

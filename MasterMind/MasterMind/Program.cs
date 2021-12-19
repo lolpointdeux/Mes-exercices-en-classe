@@ -14,7 +14,7 @@ namespace MasterMind
             proposition = Console.ReadLine();
 
             StringToArray(proposition, out combiJ);
-            masterRandom(combi);
+            masterRandom(out combi);
             pionRouge(combi, combiJ);
             afficher(combi);
             
@@ -26,10 +26,10 @@ namespace MasterMind
 
             for (int i = 0; i <= 3; i++)
             {
-                combiJ[i] = proposition[i];
+                combiJ[i] = int.Parse(proposition[i].ToString());
             }
         }
-        public static void masterRandom(int[] combi)
+        public static void masterRandom(out int[] combi)
         {
             combi = new int[4];
             Random rnd = new Random();
