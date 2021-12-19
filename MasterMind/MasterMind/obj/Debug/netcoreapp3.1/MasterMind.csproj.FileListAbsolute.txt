@@ -24,3 +24,17 @@ C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj
 C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.dll
 C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.pdb
 C:\Users\180150\Downloads\Mes-exercices-en-classe-main\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.genruntimeconfig.cache
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.exe
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.deps.json
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.runtimeconfig.json
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.runtimeconfig.dev.json
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.dll
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\bin\Debug\netcoreapp3.1\MasterMind.pdb
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.csproj.AssemblyReference.cache
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.AssemblyInfoInputs.cache
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.AssemblyInfo.cs
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.csproj.CoreCompileInputs.cache
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.dll
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.pdb
+C:\de mahieu\Mes-exercices-en-classe\MasterMind\MasterMind\obj\Debug\netcoreapp3.1\MasterMind.genruntimeconfig.cache

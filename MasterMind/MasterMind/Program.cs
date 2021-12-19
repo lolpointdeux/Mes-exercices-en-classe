@@ -6,20 +6,25 @@ namespace MasterMind
     {
         static void Main(string[] args)
         {
-            int[] combiJ ;
-            int[] combi ;
+            int[] combiJ, clone, combi ;
+            
+           
             string proposition;
 
-            Console.WriteLine($"Entrez les couleur que vous avez choisit");
+            
+            
+            Console.WriteLine($"Entrez 4 chiffres que vous avez choisit");
             proposition = Console.ReadLine();
 
             StringToArray(proposition, out combiJ);
             masterRandom(out combi);
+            Clonnage(combi, out clone);
             pionRouge(combi, combiJ);
             afficher(combi);
             
 
         }
+       
         static void StringToArray(string proposition, out int[] combiJ)
         {
             combiJ = new int[4];
@@ -38,6 +43,15 @@ namespace MasterMind
             {
                 int nombre = rnd.Next(1, 6);            
                 combi[n] = nombre;
+
+            }
+        }
+         public static void Clonnage(int [] combi, out int [] clone )
+        {
+            clone = new int[4];         
+            for (int i = 0; i < clone.Length; i++)
+            {
+                clone[i] = combi[i];
 
             }
         }
@@ -82,6 +96,7 @@ namespace MasterMind
                 Console.Write(combi[i] + " ");
                 
             }
+            Console.WriteLine();
         }
        
 
